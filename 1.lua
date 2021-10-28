@@ -1,4 +1,4 @@
-if gg.getFile():match('[^/]+$') == 'Hadi_OP [1.4].lua' then
+if gg.getFile():match('[^/]+$') == 'Hadi_OP.lua' then
 else
 gg.alert(
 [[🎉 ɴᴇᴡ ᴜᴘᴅᴀᴛᴇ ᴀʀʀɪᴠᴇꜱ 🎉
