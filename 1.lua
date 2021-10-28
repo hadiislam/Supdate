@@ -26,4 +26,7 @@ end
 function c1()
 gg.copyText("https://t.me/hadi_islam")
 end
+function c2()
+gg.copyText("https://t.me/hadi_islam")
+end
 Main()
