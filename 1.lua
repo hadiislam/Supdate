@@ -1,4 +1,4 @@
-if gg.getFile():match('[^/]+$') == 'updaterrr.lua' then
+if gg.getFile():match('[^/]+$') == '1.lua' then
 else
 gg.alert(
 [[🎉 ɴᴇᴡ ᴜᴘᴅᴀᴛᴇ ᴀʀʀɪᴠᴇꜱ 🎉
