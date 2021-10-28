@@ -1,5 +1,5 @@
 ---EXPIRE DATE ALERT
-Date = "20211127"
+Date = "20211020"
 date = os.date("%Y%m%d")
 if date >= Date then
 gg.alert(
