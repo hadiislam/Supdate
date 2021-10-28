@@ -13,7 +13,7 @@ gg.alert(
 
 ]] ,("🅄🄿🄳🄰🅃🄴"))
 gg.copyText("https://t.me/hadi_islam")
-return
+os.exit()
 end 
 
 
