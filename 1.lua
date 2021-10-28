@@ -15,7 +15,7 @@ if bps == nil then
     if bps == 1 then
       c1()
     end
-    if bps == 1 then
+    if bps == 2 then
       c2()
     end
   end
